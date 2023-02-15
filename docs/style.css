@@ -53,9 +53,6 @@ input[type=text], input[type=password] {
     border-radius: 50px;
     border: 1px solid #04d361;
 }
-button:hover {
-    background-color: #0e0918;
-}
 .logos {
     display: flex;
     justify-content: center;
